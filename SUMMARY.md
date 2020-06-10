@@ -1,9 +1,11 @@
 # Summary
 
-* [Introduction](README.md)
+* [《HTTP 权威指南》](README.md)
+
+---
 
 1. [HTTP：Web 的基础](./part1.md)
-   1. 第 1 章 HTTP 概述
+   1. [第 1 章 HTTP 概述](./part1.md#第-1-章-http-概述)
    2. 第 2 章，URL
    3. 第 3 章，HTTP 报文
    4. 第 4 章，HTTP 链接管理
@@ -32,7 +34,7 @@
    1. A，URI 方案支持的协议
    2. B，HTTP 响应代码
    3. C，HTTP 首部字段参考
-   4. D，MIME 类型
+   4. [D MIME 类型](./appendix-d.md)
    5. E，Base-64 编码
    6. F，实现 HTTP 中的各种认证方案
    7. G，HTTP 首部的语言标签值

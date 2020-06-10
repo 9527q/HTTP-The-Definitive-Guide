@@ -48,6 +48,6 @@ HTTP 是在万维网上进行通信时所使用的协议方案，它有很多应
 
 TODO
 
-- [ ] 添加 gitbook
+- [x] 添加 gitbook
 - [x] 附录 D 链接
   - [x] part 1 1.3 MIME
