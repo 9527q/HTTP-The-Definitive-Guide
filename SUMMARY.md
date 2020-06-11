@@ -5,7 +5,7 @@
 ---
 
 1. [HTTP：Web 的基础](./part1.md)
-   1. [第 1 章 HTTP 概述](./part1.md#第-1-章-http-概述)
+   1. [第 1 章 HTTP 概述](./chapter1.md)
    2. 第 2 章，URL
    3. 第 3 章，HTTP 报文
    4. 第 4 章，HTTP 链接管理
