@@ -1,5 +1,7 @@
 # 《HTTP 权威指南》
 
+> 这个笔记目的是精简整理书中知识，方便查询回顾 ——不忘初心，方得始终
+
 《HTTP: The Definitive Guide》
 
 > [dɪˈfɪnətɪv]
