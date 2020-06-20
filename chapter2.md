@@ -143,3 +143,10 @@ URL 是可移植的（portable），设计 URL 必须保证通过任意因特网
 当资源移动后 URL 就不再有效。
 
 IETF 在研究的 URN 标准可以让对象无论搬到哪里都可以提供一个稳定的名称
+
+其中一个方案是 PURL（永久统一资源定位符 persistent uniform resource locators），它引入一个中间层资源定位符服务器，对资源的实际 URL 进行登记和跟中，客户端向定位符服务器请求一个永久 URL，定位符以一个资源作为响应，将客户端重定向到资源当前的实际 URL 上去。
+
+![image](https://user-images.githubusercontent.com/37435717/85189973-6c743a00-b2e6-11ea-8cfb-a86fe61b3ddf.png)
+
+URN 思想已经提出较长时间，但 URL 到 URN 的转换是一项巨大的工程，包括标准化的推进、标准主体的一致性、各种 HTTP 应用程序的修改等等，况且 URL 还有很大能量可用。虽然 URL 有缺点，但是广大因特网用户都已经学会如何使用及对付它的缺陷。根本上说，URL 的缺陷并不是 Web 开发社区当前面临的主要矛盾。
+
