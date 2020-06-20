@@ -64,3 +64,22 @@
 
 ![image](https://user-images.githubusercontent.com/37435717/85195611-9ccbd080-b306-11ea-9ec0-c3bf3ffcd403.png)
 
+## Cache-Control
+
+[第 7 章](./chapter7.md)简要介绍了缓存，并说明了与这个首部有关的特定细节
+
+![image](https://user-images.githubusercontent.com/37435717/85195727-8f631600-b307-11ea-8b85-b187eec57333.png)
+
+## Client-ip
+
+> [ˈklaɪənt]
+
+![image](https://user-images.githubusercontent.com/37435717/85195760-c6d1c280-b307-11ea-9b49-4d4dc8db457b.png)
+
+## Connection
+
+有关 keep-alive 和持久连接的内容参见[第 4 章](./chapter4.md)
+
+![image](https://user-images.githubusercontent.com/37435717/85195773-d81acf00-b307-11ea-8cd1-71c923f6dcb5.png)
+
+![image](https://user-images.githubusercontent.com/37435717/85195788-fe406f00-b307-11ea-8deb-c2bc345dcac9.png)
