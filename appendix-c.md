@@ -127,3 +127,11 @@ MD5 摘要在 RFC 1864 中定义
 更多有关 Content-Range 的内容参见[第 15 章](./chapter15.md)
 
 ![image](https://user-images.githubusercontent.com/37435717/85196034-ef5abc00-b309-11ea-9beb-eed9f42f2e01.png)
+
+## Content-Type
+
+![image](https://user-images.githubusercontent.com/37435717/85196120-87f13c00-b30a-11ea-826f-3068551e3b48.png)
+
+## Cookie
+
+[第 11 章](./chapter11.md)详细讨论了 Cookie 首部及其用法
