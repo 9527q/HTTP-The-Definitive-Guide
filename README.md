@@ -16,7 +16,7 @@ HTTP 是在万维网上进行通信时所使用的协议方案，它有很多应
    - [第 1 章 HTTP 概述](./chapter1.md)
    - [第 2 章 URL 与资源](./chapter2.md)
    - [第 3 章 HTTP 报文](./chapter3.md)
-   - 第 4 章，HTTP 链接管理
+   - [第 4 章 连接管理](./chapter4.md)
 2. [HTTP 结构](./part2.md)
    - 第 5 章，Web 服务器结构
    - 第 6 章，HTTP 代理服务器
