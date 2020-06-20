@@ -160,3 +160,4 @@ Server: Test Server
     Version 1.0
 ```
 
+[附录 C](./appendix-c.md) 提供了所有首部的详细资料

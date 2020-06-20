@@ -41,7 +41,7 @@ HTTP 是在万维网上进行通信时所使用的协议方案，它有很多应
 6. [附录](./appendix.md)
    1. [A URI 方案](./appendix-a.md)
    2. B，HTTP 响应代码
-   3. C，HTTP 首部字段参考
+   3. [C HTTP 首部参考](./appendix-c.md)
    4. [D MIME 类型](./appendix-d.md)
    5. E，Base-64 编码
    6. F，实现 HTTP 中的各种认证方案
