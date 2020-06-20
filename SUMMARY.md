@@ -9,7 +9,7 @@
    2. [第 2 章 URL 与资源](./chapter2.md)
    3. [第 3 章 HTTP 报文](./chapter3.md)
    4. 第 4 章，HTTP 链接管理
-2. HTTP 结构
+2. [HTTP 结构](./part2.md)
    1. 第 5 章，Web 服务器结构
    2. 第 6 章，HTTP 代理服务器
    3. [第 7 章 缓存](./chapter7.md)
