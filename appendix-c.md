@@ -83,3 +83,47 @@
 ![image](https://user-images.githubusercontent.com/37435717/85195773-d81acf00-b307-11ea-8cd1-71c923f6dcb5.png)
 
 ![image](https://user-images.githubusercontent.com/37435717/85195788-fe406f00-b307-11ea-8deb-c2bc345dcac9.png)
+
+## Content-Base
+
+更多有关基础 URL 的信息参见 [2.3 节](./chapter2.md#url-快捷方式)
+
+![image](https://user-images.githubusercontent.com/37435717/85195872-8e7eb400-b308-11ea-9e74-166aa7704060.png)
+
+## Content-Encoding
+
+是否进行过编码
+
+![image](https://user-images.githubusercontent.com/37435717/85195916-0a78fc00-b309-11ea-9802-a80fcadc3d9c.png)
+
+![image](https://user-images.githubusercontent.com/37435717/85195930-2a102480-b309-11ea-9022-ae62d615bf7e.png)
+
+## Content-Language
+
+![image](https://user-images.githubusercontent.com/37435717/85195937-3c8a5e00-b309-11ea-8ef3-6ea66d371c5c.png)
+
+## Content-Lenght
+
+HEAD HTTP 请求中表示**如果**发送的话，主体会有多长
+
+![image](https://user-images.githubusercontent.com/37435717/85195960-65125800-b309-11ea-9fdd-3878e214d4ff.png)
+
+## Content-Location
+
+![image](https://user-images.githubusercontent.com/37435717/85195978-86734400-b309-11ea-9934-ff8a08176b6c.png)
+
+![image](https://user-images.githubusercontent.com/37435717/85195982-93903300-b309-11ea-9da9-c35c02fe6e55.png)
+
+## Content-MD5
+
+可以端到端的检查数据，但不应将其用于安全目的
+
+MD5 摘要在 RFC 1864 中定义
+
+![image](https://user-images.githubusercontent.com/37435717/85196003-b4588880-b309-11ea-9c09-b32aa0a1d87c.png)
+
+## Content-Range
+
+更多有关 Content-Range 的内容参见[第 15 章](./chapter15.md)
+
+![image](https://user-images.githubusercontent.com/37435717/85196034-ef5abc00-b309-11ea-9beb-eed9f42f2e01.png)
