@@ -135,3 +135,91 @@ MD5 摘要在 RFC 1864 中定义
 ## Cookie
 
 [第 11 章](./chapter11.md)详细讨论了 Cookie 首部及其用法
+
+![image](https://user-images.githubusercontent.com/37435717/85196194-08b03800-b30b-11ea-8fde-b95ebd0180b1.png)
+
+## Cookie2
+
+[第 11 章](./chapter11.md)详细讨论了 Cookie2 首部及其用法
+
+![image](https://user-images.githubusercontent.com/37435717/85196217-3e552100-b30b-11ea-843b-829a3b6411cb.png)
+
+## Date
+
+![image](https://user-images.githubusercontent.com/37435717/85196230-562ca500-b30b-11ea-87cf-42321c141369.png)
+
+![image](https://user-images.githubusercontent.com/37435717/85196242-6cd2fc00-b30b-11ea-88ba-9ec7fcf8b58b.png)
+
+## ETag
+
+[第 15 章](./chapter15.md)讨论过实体标记及其与资源之间的关系
+
+![image](https://user-images.githubusercontent.com/37435717/85196253-8411e980-b30b-11ea-9e37-547f57f56f2c.png)
+
+## Expect
+
+响应码 100 Continue 参见 [3.4.1 节](./chapter3.md#100～199——信息性状态码)
+
+![image](https://user-images.githubusercontent.com/37435717/85196271-aefc3d80-b30b-11ea-8716-ec0c4bdd2e63.png)
+
+## Expires
+
+[第 7 章](./chapter7.md)讨论过 Expires 首部用法
+
+![image](https://user-images.githubusercontent.com/37435717/85196377-89bbff00-b30c-11ea-8a2d-e10f701a4af2.png)
+
+## From
+
+![image](https://user-images.githubusercontent.com/37435717/85196404-ac4e1800-b30c-11ea-8b25-e5bc4ad8ae76.png)
+
+## Host
+
+![image](https://user-images.githubusercontent.com/37435717/85196436-cee03100-b30c-11ea-86af-e4b917f4f7cf.png)
+
+## If-Modified-Since
+
+[第 7 章](./chapter7.md)详细讨论了条件请求
+
+![image](https://user-images.githubusercontent.com/37435717/85196460-eb7c6900-b30c-11ea-8a34-fd41806c1c4c.png)
+
+## If-Match
+
+[第 7 章](./chapter7.md)讨论了条件请求
+
+![image](https://user-images.githubusercontent.com/37435717/85196484-15359000-b30d-11ea-8f32-94f968b12ad3.png)
+
+## If-None-Match
+
+[第 7 章](./chapter7.md)讨论了条件请求
+
+![image](https://user-images.githubusercontent.com/37435717/85196500-326a5e80-b30d-11ea-908e-c28df880917b.png)
+
+## If-Range
+
+[第 7 章](./chapter7.md)讨论了条件请求
+
+![image](https://user-images.githubusercontent.com/37435717/85196564-94c35f00-b30d-11ea-888a-1841ae367a05.png)
+
+## If-Unmodified-Since
+
+[第 7 章](./chapter7.md)讨论了条件请求
+
+![image](https://user-images.githubusercontent.com/37435717/85196607-d48a4680-b30d-11ea-8263-7b6f12a2812f.png)
+
+![image](https://user-images.githubusercontent.com/37435717/85196610-da802780-b30d-11ea-8dae-314f7e341716.png)
+
+## Last-Modified
+
+![image](https://user-images.githubusercontent.com/37435717/85196621-07343f00-b30e-11ea-9961-1cbaf3cab021.png)
+
+## Location
+
+![image](https://user-images.githubusercontent.com/37435717/85196630-2501a400-b30e-11ea-8b08-8b909cd6c10a.png)
+
+## Max-Forwards
+
+更多有关 TRACE 方法的信息参见 3.3 节
+
+![image](https://user-images.githubusercontent.com/37435717/85196641-38ad0a80-b30e-11ea-9674-fb07253080c1.png)
+
+![image](https://user-images.githubusercontent.com/37435717/85196668-67c37c00-b30e-11ea-9c6c-2a67ac43c375.png)
